@@ -7,11 +7,9 @@ I have made a dataset of Tabula Muris on Kaggle, and worked on the Kaggle kernel
 * The data allow for direct and controlled comparison of gene expression in cell types shared between tissues, for e.g. immune cells from distinct anatomical locations.
 * The full dataset includes both high throughput but low-coverage 10X data and lower throughput but high-coverage Smartseq2 data.
 
-* This data use the Smartseq2 data from the mouse brain. This data consists of:
+* This dataset uses only the Smartseq2 data from the mouse brain. This data consists of:
    - an expression matrix where each column corresponds to a gene (or transcript) and each row corresponds to a single cell
    - a table of metadata describing each cell
-* **This data consists of an expression matrix where each column corresponds to a gene (or transcript) and each row corresponds to a single cell and a table of metadata describing each cell.**
-
 
 ### 0- Single-cell RNA-seq: Introduction & Workflow - [Kaggle Notebook](https://www.kaggle.com/hrishikeshp/0-single-cell-rna-seq-introduction-workflow) 
 - Basic theoretical concepts about Bulk RNA-seq and Single-cell RNA-seq
