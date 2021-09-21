@@ -35,4 +35,4 @@ I have made a dataset of Tabula Muris on Kaggle, and worked on the Kaggle kernel
 - Removing "offending" genes(very highly expressed genes) such as Rn45s, and then performing PCA
 - Finally, Normalization by log1p, scaling and then PCA.
 
-The next part of the project involves dimensionality reduction and clustering, to observe and further investigate clusters in cells of a perticular sybtissue. Following this, the final part of the project will involve investigation of differential expression of genes in various cell classes.
+The next part of the project involves dimensionality reduction and clustering, to observe and further study clusters in cells of a particular subtissue. Following this, the final part of the project will involve investigation of differential expression of genes in various cell classes.
