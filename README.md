@@ -33,4 +33,16 @@ I have made a dataset of Tabula Muris on Kaggle, and worked on the Kaggle kernel
 - Removing "offending" genes(very highly expressed genes) such as Rn45s, and then performing PCA
 - Finally, Normalization by log1p, scaling and then PCA.
 
-The next part of the project involves dimensionality reduction and clustering, to observe and further study clusters in cells of a particular subtissue. Following this, the final part of the project will involve investigation of differential expression of genes in various cell classes.
+### 4. Dimensionality Reduction and Clustering - [Kaggle Notebook](https://www.kaggle.com/hrishikeshp/4-dimensionality-reduction-and-clustering) 
+1. Dimensionality Reduction
+* tSNE
+* UMAP
+2. Clustering
+* k-Means Clustering on tSNE
+  ** Evaluating the k-means clustering performance
+  ** Playing with the number of cluster in k-means 
+* Graph Based Clustering Method - Louvain
+  ** Tuning thr graph resolution parameter
+* Observing clusters in cells of a particular subtissue
+
+The final part of the project will involve investigation of differential expression of genes in various cell classes.
