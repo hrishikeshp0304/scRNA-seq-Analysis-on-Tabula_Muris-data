@@ -39,10 +39,10 @@ I have made a dataset of Tabula Muris on Kaggle, and worked on the Kaggle kernel
 * UMAP
 2. Clustering
 * k-Means Clustering on tSNE
-  ** Evaluating the k-means clustering performance
-  ** Playing with the number of cluster in k-means 
+   - Evaluating the k-means clustering performance
+   - Playing with the number of cluster in k-means 
 * Graph Based Clustering Method - Louvain
-  ** Tuning thr graph resolution parameter
+   - Tuning thr graph resolution parameter
 * Observing clusters in cells of a particular subtissue
 
 The final part of the project will involve investigation of differential expression of genes in various cell classes.
