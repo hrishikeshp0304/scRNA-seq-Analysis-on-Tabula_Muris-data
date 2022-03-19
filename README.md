@@ -45,7 +45,7 @@ I have made a dataset of Tabula Muris on Kaggle, and worked on the Kaggle kernel
    - Tuning thr graph resolution parameter
 * Observing clusters in cells of a particular subtissue
 
-### 5. Differential expression - [Kaggle Link](https://www.kaggle.com/code/hrishikeshp/5-differential-expression-in-scrna-seq) 
+### 5. Differential expression - [Kaggle Notebook](https://www.kaggle.com/code/hrishikeshp/5-differential-expression-in-scrna-seq) 
 - Building intuition of differential expression
 - T-test
 - Working with whole dataset using original labels - "cell_ontology_class"
