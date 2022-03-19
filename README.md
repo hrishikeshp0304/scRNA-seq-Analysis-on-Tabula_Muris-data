@@ -45,4 +45,10 @@ I have made a dataset of Tabula Muris on Kaggle, and worked on the Kaggle kernel
    - Tuning thr graph resolution parameter
 * Observing clusters in cells of a particular subtissue
 
-The final part of the project will involve investigation of differential expression of genes in various cell classes.
+### 5. Differential expression - [Kaggle Link](https://www.kaggle.com/code/hrishikeshp/5-differential-expression-in-scrna-seq) 
+- Building intuition of differential expression
+- T-test
+- Working with whole dataset using original labels - "cell_ontology_class"
+- Working with whole dataset using "louvain" clusters
+- Comparing to known marker genes of call classes
+
