@@ -1,4 +1,4 @@
-# scRNA-seq Analysis on Tabula Muris data / [Ongoing]
+# scRNA-seq Analysis on Tabula Muris data
 
 I have made a dataset of Tabula Muris on Kaggle, and worked on the Kaggle kernel for each of the notebooks below. They can be accessed using the links provided. 
 
